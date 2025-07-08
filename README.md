@@ -11,6 +11,6 @@ marimo run --sandbox UQ.py
 
 ### Acknowledgements
 
-- The catalysis example was originally adapted from [a UQ course](https://github.com/PredictiveScienceLab/uq-course) developed by [https://predictivesciencelab.org/](Ilias Bilionis)
+- The catalysis example was originally adapted from [a UQ course](https://github.com/PredictiveScienceLab/uq-course) developed by [Ilias Bilionis](https://predictivesciencelab.org/)
 - Other materials were adapted from my PX914 and ES98E postgraduate modules taught in the [HetSys CDT](https://warwick.ac.uk/fac/sci/hetsys/) at Warwick.
 
