@@ -17,6 +17,7 @@ No single textbook covers all the topics in this emerging area. The following bo
 
 - Uncertainty Quantification and Predictive Computational Science, McClaren available from [Springer](https://link.springer.com/book/10.1007/978-3-319-99525-0)
 - Understanding Deep Learning, Simon Prince (2023). [PDF version](https://udlbook.github.io/udlbook/) freely available.
+- Advanced Scientific Machine Learning, Ilias Bilionis (2025) [Online textbook](https://predictivesciencelab.github.io/advanced-scientific-machine-learning/homework/00_intro.html)
 
 ### Acknowledgements
 
