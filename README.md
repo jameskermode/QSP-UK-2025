@@ -22,5 +22,5 @@ No single textbook covers all the topics in this emerging area. The following bo
 ### Acknowledgements
 
 - The first version  of the catalysis example was originally adapted from [an excellent UQ course](https://github.com/PredictiveScienceLab/uq-course) by [Ilias Bilionis](https://predictivesciencelab.org/). More details are available in [Tsilifis2014](https://arxiv.org/abs/1410.5522)
-- The material on optimisation, SciML and MCMC were adapted from my [PX914]([https://courses.warwick.ac.uk/modules/2023/PX914-15](https://courses.warwick.ac.uk/modules/2024/PX914-15)) and [ES98E](https://courses.warwick.ac.uk/modules/2024/ES98E-15) postgraduate modules taught in the [HetSys CDT](https://warwick.ac.uk/fac/sci/hetsys/) at Warwick.
+- The material on optimisation, SciML and MCMC were adapted from my [PX914](https://courses.warwick.ac.uk/modules/2024/PX914-15) and [ES98E](https://courses.warwick.ac.uk/modules/2024/ES98E-15) postgraduate modules taught in the [HetSys CDT](https://warwick.ac.uk/fac/sci/hetsys/) at Warwick.
 
