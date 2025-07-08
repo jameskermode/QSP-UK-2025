@@ -15,7 +15,7 @@ marimo run --sandbox UQ.py
 
 No single textbook covers all the topics in this emerging area. The following books provide good coverage of most of the topics:
 
-- Uncertainty Quantification an Predictive Computational Science, McCallaren available from [Springer](https://0-link-springer-com.pugwash.lib.warwick.ac.uk/book/10.1007/978-3-319-23395-6)
+- Uncertainty Quantification and Predictive Computational Science, McClaren available from [Springer](https://link.springer.com/book/10.1007/978-3-319-99525-0)
 - Understanding Deep Learning, Simon Prince (2023). [PDF version](https://udlbook.github.io/udlbook/) freely available.
 
 ### Acknowledgements
